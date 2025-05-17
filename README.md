@@ -19,7 +19,7 @@ This project wraps SOL to WSOL (Wrapped SOL) on the Solana Devnet using Node.js 
 ```bash
 # Clone the repo
 git clone https://github.com/fzn-dy/Wrap-SOL.git
-cd wrap-sol-to-wsol
+cd Wrap-SOL
 
 # Install dependencies
 npm install
