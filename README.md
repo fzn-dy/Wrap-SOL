@@ -71,14 +71,3 @@ Your WSOL ATA: 3nb...xyz
   ```
 
   This means your wallet balance is slightly below 1 SOL after rent/fee.
-
-## File Structure
-
-```
-wrap-sol-to-wsol/
-├── .env            # Your private key (excluded from Git)
-├── .env.copy       # Example .env
-├── wrap-sol.ts     # Main script file
-├── package.json    # Project metadata and scripts
-└── tsconfig.json   # TypeScript configuration
-```
